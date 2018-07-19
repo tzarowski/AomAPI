@@ -12224,11 +12224,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Apart of Me\\ASP.NET Core Tutorial\\TodoApi\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "C:\\Users\\tzaro\\Documents\\GitHub\\AomAPI\\TodoApi\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "D:\\Apart of Me\\ASP.NET Core Tutorial\\TodoApi\\TodoApi\\TodoApi.csproj",
+      "projectPath": "C:\\Users\\tzaro\\Documents\\GitHub\\AomAPI\\TodoApi\\TodoApi.csproj",
       "packagesPath": "C:\\Users\\tzaro\\.nuget\\packages\\",
-      "outputPath": "D:\\Apart of Me\\ASP.NET Core Tutorial\\TodoApi\\TodoApi\\obj\\",
+      "outputPath": "C:\\Users\\tzaro\\Documents\\GitHub\\AomAPI\\TodoApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
