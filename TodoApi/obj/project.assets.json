@@ -12224,9 +12224,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tzaro\\Documents\\GitHub\\AomAPI\\TodoApi\\TodoApi.csproj",
-      "projectName": "TodoApi",
-      "projectPath": "C:\\Users\\tzaro\\Documents\\GitHub\\AomAPI\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "C:\\Users\\tzaro\\Documents\\GitHub\\AomAPI\\TodoApi\\AoMAPI.csproj",
+      "projectName": "AoMAPI",
+      "projectPath": "C:\\Users\\tzaro\\Documents\\GitHub\\AomAPI\\TodoApi\\AoMAPI.csproj",
       "packagesPath": "C:\\Users\\tzaro\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\tzaro\\Documents\\GitHub\\AomAPI\\TodoApi\\obj\\",
       "projectStyle": "PackageReference",

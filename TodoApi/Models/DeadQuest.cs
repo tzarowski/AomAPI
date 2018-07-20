@@ -3,12 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace TodoApi.Models
+namespace AoMAPI.Models
 {
-    public class DeadQuest
+    public class DeadQuest : Quest
     {
-        public int Id { get; set; }
-        public String Title { get; set; }
-        public String Description { get; set; }
     }
 }

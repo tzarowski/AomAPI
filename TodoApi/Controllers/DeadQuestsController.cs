@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using TodoApi.Models;
+using AoMAPI.Models;
 
-namespace TodoApi.Controllers
+namespace AoMAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
@@ -121,5 +121,6 @@ namespace TodoApi.Controllers
         {
             return _context.DeadQuests.Any(e => e.Id == id);
         }
+
     }
 }
