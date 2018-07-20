@@ -13,6 +13,9 @@ namespace TodoApi
             services.AddDbContext<TodoContext>(opt =>
                 opt.UseInMemoryDatabase("TodoList"));
 
+            services.AddDbContext<DeadQuestContext>(opt =>
+                opt.UseInMemoryDatabase("DeadQuests"));
+
             services.AddMvc()
                     .SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }
